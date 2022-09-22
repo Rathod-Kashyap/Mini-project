@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/drawable/email_ic.xml" value="0.179" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/drawable/ic_booked_foreground.xml" value="0.1665" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/drawable/ic_booking_foreground.xml" value="0.1665" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/drawable/password_ic.xml" value="0.179" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/drawable/phone_ic.xml" value="0.179" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/drawable/progress_bg.xml" value="0.179" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/drawable/textview_bg.xml" value="0.179" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/drawable/user_ic.xml" value="0.179" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/layout/activity_booking.xml" value="0.2" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/layout/activity_login.xml" value="0.43724696356275305" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/layout/activity_main.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/layout/activity_register.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/layout/fragment_four.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/layout/fragment_second.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/layout/fragment_third.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/HITEN/AndroidStudioProjects/Karwaan/app/src/main/res/menu/buttom_nav_bar.xml" value="0.1799145299145299" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
